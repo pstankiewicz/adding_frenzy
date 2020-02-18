@@ -19,3 +19,8 @@ Just `make test`.
 ## Whats next?
 
 Fork it, add code to `adding_frenzy.py`, show it to me and to the world!
+
+
+## Example implementation
+
+Based on binary counter and hand made binary to integer conversion :) Nothing fancy but does the job.

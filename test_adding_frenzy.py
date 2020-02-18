@@ -11,3 +11,11 @@ def test_adding_negative_numbers():
 
 def test_adding_zeroes():
     assert add(0, 0) == 0
+
+
+def test_adding_negative_and_positive_result_negative():
+    assert add(-8, 2) == -6
+
+
+def test_adding_negative_and_positive_result_positive():
+    assert add(-8, 12) == 4
